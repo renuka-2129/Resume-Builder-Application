@@ -1,0 +1,15 @@
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\bin\Debug\net9.0\ResumeBuilder.Core.deps.json
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\bin\Debug\net9.0\ResumeBuilder.Core.dll
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\bin\Debug\net9.0\ResumeBuilder.Core.pdb
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\bin\Debug\net9.0\ResumeBuilder.Shared.dll
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\bin\Debug\net9.0\ResumeBuilder.Shared.pdb
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBuilder.Core.csproj.AssemblyReference.cache
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBuilder.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBuilder.Core.AssemblyInfoInputs.cache
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBuilder.Core.AssemblyInfo.cs
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBuilder.Core.csproj.CoreCompileInputs.cache
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBu.2D8A34EF.Up2Date
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBuilder.Core.dll
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\obj\Debug\net9.0\refint\ResumeBuilder.Core.dll
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBuilder.Core.pdb
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Core\obj\Debug\net9.0\ref\ResumeBuilder.Core.dll

@@ -1,0 +1,11 @@
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Shared\bin\Debug\net9.0\ResumeBuilder.Shared.deps.json
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Shared\bin\Debug\net9.0\ResumeBuilder.Shared.dll
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Shared\bin\Debug\net9.0\ResumeBuilder.Shared.pdb
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Shared\obj\Debug\net9.0\ResumeBuilder.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Shared\obj\Debug\net9.0\ResumeBuilder.Shared.AssemblyInfoInputs.cache
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Shared\obj\Debug\net9.0\ResumeBuilder.Shared.AssemblyInfo.cs
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Shared\obj\Debug\net9.0\ResumeBuilder.Shared.csproj.CoreCompileInputs.cache
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Shared\obj\Debug\net9.0\ResumeBuilder.Shared.dll
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Shared\obj\Debug\net9.0\refint\ResumeBuilder.Shared.dll
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Shared\obj\Debug\net9.0\ResumeBuilder.Shared.pdb
+C:\Users\renuk\OneDrive\Desktop\smart-resume-builder\backend\ResumeBuilder.Shared\obj\Debug\net9.0\ref\ResumeBuilder.Shared.dll

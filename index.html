@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interactive Resume Builder</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- jsPDF Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+
+<h1 class="main-title">Interactive Resume Builder</h1>
+
+<div class="container">
+
+    <!-- LEFT SIDE FORM -->
+    <div class="form-section">
+        <h2>Enter Resume Details</h2>
+
+        <label>Full Name</label>
+        <input type="text" id="name" oninput="updatePreview()">
+
+        <label>Email (Gmail only)</label>
+        <input type="text" id="email" placeholder="example@gmail.com" oninput="updatePreview()">
+        <span id="emailMessage"></span>
+
+        <label>Job Title</label>
+        <input type="text" id="job" oninput="updatePreview()">
+
+        <label>Professional Summary</label>
+        <textarea id="summary" oninput="updatePreview()"></textarea>
+
+        <label>Skills (comma separated)</label>
+        <textarea id="skills" oninput="updatePreview()"></textarea>
+
+        <label>Projects</label>
+        <textarea id="projects" oninput="updatePreview()"></textarea>
+
+        <label>Qualifications</label>
+        <textarea id="qualifications" oninput="updatePreview()"></textarea>
+
+        <label>References</label>
+        <textarea id="references" oninput="updatePreview()"></textarea>
+
+        <button onclick="downloadPDF()">Download PDF</button>
+    </div>
+
+    <!-- RIGHT SIDE PREVIEW -->
+    <div class="preview-section">
+        <h2>Resume Preview</h2>
+
+        <h1 id="pName">Your Name</h1>
+        <p id="pEmail"></p>
+        <p id="pJob">Job Title</p>
+
+        <h3>Professional Summary</h3>
+        <p id="pSummary"></p>
+
+        <h3>Skills</h3>
+        <ul id="pSkills"></ul>
+
+        <h3>Projects</h3>
+        <p id="pProjects"></p>
+
+        <h3>Qualifications</h3>
+        <p id="pQualifications"></p>
+
+        <h3>References</h3>
+        <p id="pReferences"></p>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
